@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const URL = "https://the-signaling-server-url.onrender.com/health";
+const URL = "https://signaling-server-ig4a.onrender.com";
 
 try {
   const res = await fetch(URL);
